@@ -89,3 +89,6 @@ function calculateSumandAverage(a) {
     const sumavg = calculateSumandAverage(data);
     console.log(sumavg.sum);
     console.log(sumavg.average);
+
+    // --Part3--Thinking critically
+    // Take an object and increment its age field.
